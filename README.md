@@ -1,4 +1,4 @@
-## Oiee, Meu nome é Gabriel Angelo👋
+## Oiee, Meu nome é Gabriel Angelo👋✨
 <div align="left">
   <a href="https://github.com/4ngelo0">
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=4ngelo0&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -10,8 +10,7 @@
   <img align="center" alt="4ngelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="4ngelo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="4ngelo-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
-
+    <img align="right" alt="4ngelo0-pic" height="150" src="https://i.pinimg.com/564x/b9/5e/30/b95e302de96790b48e8fc0172e009475.jpg">
 </div>
   
   ##
@@ -22,3 +21,5 @@
   <a href = "mailto:gabrielb4rr00s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-angelo-564713234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  
+  ##
