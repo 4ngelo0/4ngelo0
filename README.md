@@ -15,7 +15,6 @@
   <img align="center" alt="4ngelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="4ngelo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="4ngelo-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="right" alt="4ngelo0-pic" height="150" src="https://i.pinimg.com/564x/b9/5e/30/b95e302de96790b48e8fc0172e009475.jpg">
 </div>
   
   ##
