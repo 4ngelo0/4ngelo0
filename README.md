@@ -1,8 +1,8 @@
 # Oiee, Meu nome é Gabriel Angelo👋✨
 <div align="center">
   <a href="https://github.com/4ngelo0">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=4ngelo0&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngelo0&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=4ngelo0&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngelo0&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
   
   ##
