@@ -1,9 +1,14 @@
-## Oiee, Meu nome é Gabriel Angelo👋✨
+# Oiee, Meu nome é Gabriel Angelo👋✨
 <div align="left">
   <a href="https://github.com/4ngelo0">
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=4ngelo0&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngelo0&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+  
+  ##
+  
+  ### Conhecimentos
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="4ngelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="4ngelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
